@@ -1,0 +1,20 @@
+{
+  "name": "kpl-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vitepress dev src",
+    "pd": "npm run pp && npm run pb && npm run pc",
+    "pp": "git reset --hard && git pull && npm install",
+    "pc": "git add . && git commit -m 'deploy' && git push",
+    "pb": "vitepress build src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^0.21.6",
+    "vue": "^3.2.29"
+  }
+}
