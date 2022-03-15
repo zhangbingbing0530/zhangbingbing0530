@@ -6,7 +6,7 @@
 module.exports = {
   "lang": "zh-cn",
   outDir: '../docs',
-  base:'/zhangbingbing0530/',
+  base:'/blog/',
   title: '张兵兵',
   description: '让全栈编程更容易~',
   head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.png' }]],
