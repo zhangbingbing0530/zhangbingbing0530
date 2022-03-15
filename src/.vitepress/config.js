@@ -7,11 +7,11 @@ module.exports = {
   "lang": "zh-cn",
   outDir: '../docs',
   base:'/blog/',
-  title: '空无',
+  title: '张兵兵',
   description: '让全栈编程更容易~',
   head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.png' }]],
   themeConfig: {
-    repo: 'kongwutw/blog',
+    repo: 'zhangbingbing0530/zhangbingbing0530/',
     logo: '/logo.png',
     docsDir: 'docs',
     docsBranch: 'main',

@@ -11,7 +11,7 @@ features:
   details: 热爱编程，苦修基本功，立志开发维护让自己做梦都笑出声的代码！
 - title: 高效
   details: 想尽一切办法，让日常工作更加高效、充满创新和无比有趣，享受编程！
-footer: Copyright © 2019 空无
+footer: Copyright © 2019 张兵兵
 ---
 
 
