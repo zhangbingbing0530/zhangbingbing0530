@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/blog/',
+  base: '/zhangbingbing0530/',
   dest: 'docs',
   title:'张兵兵的博客',
   description:'让全栈编程更容易！',
